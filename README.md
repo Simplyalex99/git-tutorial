@@ -5,4 +5,3 @@
 14 shoulder
 30 chest
 20 arms
-git push -u ori
