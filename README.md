@@ -11,3 +11,5 @@ in
 git merge stash conflict
 git pull origin test
 global github stash conflict test
+git stash test again locally
+testing reset
