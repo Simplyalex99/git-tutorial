@@ -6,3 +6,4 @@ good commit
 
 good commit 2
 
+good commit 3
