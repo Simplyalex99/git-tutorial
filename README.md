@@ -12,3 +12,4 @@ good commit 4
 
 bad commit 5
 
+bad commit 6
