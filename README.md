@@ -10,3 +10,4 @@ git push -u ori
 in
 git merge stash conflict
 git pull origin test
+global github stash conflict test
