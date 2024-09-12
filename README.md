@@ -8,3 +8,4 @@ I like mangos
 20 arms
 git push -u ori
 in
+git merge stash conflict
